@@ -1,8 +1,0 @@
-streamlit
-pandas
-yfinance
-pypfopt
-prophet
-plotly
-scikit-learn
-qiskit
