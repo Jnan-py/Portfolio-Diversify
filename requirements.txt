@@ -1,0 +1,10 @@
+streamlit
+pandas
+yfinance
+pypfopt
+numpy
+prophet
+plotly
+scikit-learn
+qiskit
+qiskit-machine-learning
